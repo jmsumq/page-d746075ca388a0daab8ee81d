@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7ef4d5a952133455fb3d072f",
+  "owner": "jmsumq",
+  "repo": "page-d746075ca388a0daab8ee81d",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d746075ca388a0daab8ee81d",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b085ee49a2e81313fac28438a946a4695c1c1e1b8d563593c443736924936aef",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供机场订阅与网络加速说明，覆盖使用场景、操作步骤、套餐与客户端入口，并集中解答导入、设备和合规等常见问题。",
+          "AI_DESCRIPTION": "365VPN 提供机场订阅与网络加速说明，覆盖使用场景、操作步骤、套餐与客户端入口，并集中解答导入、设备和合规等常见问题。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;background:#f3f1f6;color:#1c1c1e;line-height:1.75}a{color:#5b3d9a;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1080px;margin:0 auto;padding:0 18px}header{background:#4e3480;color:#f7f4fb;padding:12px 0}header .bar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px 12px}.logo{font-weight:700;font-size:1.12rem;letter-spacing:.06em}nav{display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#efe8f8;font-size:.92rem}main{display:block}.hero{padding:2.2rem 0 1.4rem}h1{font-size:1.85rem;line-height:1.25;color:#3d246b;margin-bottom:.7rem}.lead{font-size:1.05rem;color:#3a3a42;max-width:42em}section{padding:1.6rem 0}h2{font-size:1.35rem;color:#4e3480;margin:0 0 .75rem;padding-bottom:.4rem;border-bottom:2px solid #d9ccec}h3{font-size:1.06rem;color:#5b3d9a;margin:1.15rem 0 .4rem}p{margin:0 0 .75rem}ol,ul{margin:0 0 .9rem 1.2rem}li{margin:.28rem 0}.editorial{display:grid;grid-template-columns:1fr;gap:1.2rem}.panel{background:#fff;border:1px solid #e4dcec;border-radius:10px;padding:1.15rem 1.2rem}.aside{background:#efe8f7;border-left:4px solid #6b4aa8;border-radius:0 10px 10px 0;padding:1rem 1.1rem}.aside h3{margin-top:0}.aside ol{margin-left:1.1rem;font-size:.95rem}.note{background:#fff;border:1px dashed #c9b7e0;border-radius:8px;padding:.85rem 1rem;margin:1rem 0;color:#3a3344}.steps{background:#fff;border:1px solid #e4dcec;border-radius:10px;padding:1.1rem 1.2rem 0.4rem}.mod{padding-top:.4rem}.faq-band{background:#ece6f4;padding:2rem 0 2.4rem;margin-top:.6rem}details{background:#fff;border:1px solid #ddd0ea;border-radius:8px;margin:0 0 .65rem;padding:0 .95rem}summary{cursor:pointer;font-weight:600;color:#3d246b;padding:.8rem 0;list-style:none}summary::-webkit-details-marker{display:none}details[open] summary{border-bottom:1px solid #eee4f6}details p{padding:.7rem 0 .95rem;color:#2e2e33}footer{background:#3d246b;color:#e4dcf0;padding:1.4rem 0;font-size:.9rem}footer a{color:#f0e9fa}.tiny{font-size:.92rem;color:#4d4d55}@media(min-width:768px){h1{font-size:2.25rem}.editorial{grid-template-columns:1.65fr 1fr;gap:2rem;align-items:start}section{padding:1.9rem 0}}</style><header><div class=\"wrap bar\"><div class=\"logo\">365VPN</div><nav><a href=\"#about\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">指南</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#faq\">问答</a></nav></div></header><main><div class=\"wrap hero\"><h1>365VPN 机场订阅与网络加速</h1><p class=\"lead\">365VPN 以机场订阅方式提供梯子网络加速入口。本页按编辑说明来写：先讲清它是什么、适合谁用，再给出可执行的操作步骤，并单独放大常见问题，方便你对照套餐与客户端完成导入连接。</p></div><section id=\"about\"><div class=\"wrap editorial\"><div class=\"panel\"><h2>品牌简介</h2><p>365VPN 把「购买加速额度」和「使用客户端」分成两步。用户按周期订阅流量方案，到账户中复制订阅链接，再在兼容的代理客户端里导入、更新节点并连接。换电脑或手机时，通常不必重新寻找软件，只要继续使用同一条订阅即可。</p><p>机场模式的好处是配置可迁移、套餐可按用量选择；代价是你需要自己完成导入，并理解订阅链接等同于访问凭证。本页只陈述流程与注意事项，不编造节点规模、线路测速、用户评分或未提供的下载地址。套餐数字以页面中的方案模块为准，正文不重复抄写，以免和结算页不一致。</p><p>若你正在寻找 365VPN 官网说明、加速器用法或客户端下载路径，请按下方目录阅读：场景帮助判断是否值得订阅，指南覆盖从选套餐到连上的顺序，问答集中处理导入失败、设备数量和合规边界。</p></div><aside class=\"aside\"><h3>本页导读</h3><ol><li>用一段话理解机场订阅</li><li>对照办公、内容和出行场景</li><li>按五步完成导入与连接</li><li>在方案模块查看套餐</li><li>从客户端入口获取软件</li><li>用问答区排查高频问题</li></ol><p class=\"tiny\">浅灰底与紫色标题用于把说明和问答分开，避免把整页做成三张相同卡片。</p></aside></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><p>网络加速不是万能钥匙。365VPN 更适合「需要稳定到达境外或特定区域服务，并愿意自己维护客户端」的人。以下三类需求最常见，可与自身情况对照。</p><h3>跨境办公与协作</h3><p>远程会议、云文档、代码托管和海外 SaaS 对链路中断很敏感。把笔记本、公司电脑和手机配成同一套订阅，切换 Wi-Fi 或蜂窝网络时，只需在客户端里重连，而不必每次重装。选择套餐时优先看同时在线设备数是否盖得住你的终端。</p><h3>内容访问与学习检索</h3><p>公开课程、文献库、开发者文档和国际媒体，依赖可到达的线路和够用的流量。编辑建议先估算一周用量，再决定方案，而不是被「全解锁」一类措辞带走。具体能看哪些平台，以套餐模块里的说明为准，正文不作额外承诺。</p><h3>出行、驻外与家庭多终端</h3><p>差旅或家庭共用时，机场订阅的优点是一份配置多端使用。请只在套餐允许的设备范围内登录，不要把链接发给不相关的人。游戏或实时通讯若对延迟敏感，连接后应先在客户端里换线试几次，再判断是否符合预期。</p></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><p>下面按真实使用顺序写，不跳步。若某一步和你账户页上的按钮名称不完全一致，以账户页为准，本说明只保证逻辑完整。</p><div class=\"steps\"><h3>第一步：确认需求再看套餐</h3><p>估算每日流量、同时在线设备，以及是否更在意办公稳定性还是内容访问。打开本页套餐模块对比，而不是先下载一堆客户端。</p><h3>第二步：完成订阅并复制链接</h3><p>购买成功后，在用户中心找到订阅或导入地址。整段复制，不要漏掉令牌参数。订阅链接能拉取节点并消耗额度，应视同密码。</p><h3>第三步：从本页获取客户端</h3><p>到「客户端下载」一节选择与系统匹配的版本。只使用本页给出的入口，避免来路不明的二次打包。</p><h3>第四步：在软件中导入订阅</h3><p>打开客户端，选择订阅（Subscription）而不是手动添加单个节点，粘贴链接后执行更新。列表出现即可进入下一步。</p><h3>第五步：连接并检查代理模式</h3><p>选一个节点连接。若只有浏览器能访问、其他软件不行，检查是否未开启系统代理或 TUN。连上后访问一个你原本打不开的页面，确认生效再离开客户端。</p></div><div class=\"note\"><p>使用应遵守所在地法律法规与目标网站条款。本页提供配置说明与官方下载入口指引，不协助未授权访问、攻击或任何违法用途。</p></div></div></section><section id=\"plans\" class=\"mod\"><div class=\"wrap\"><h2>订阅套餐</h2><p>方案名称、价格与权益由系统注入。请以模块内展示为准，不要在聊天记录或口头承诺中另行改写数字。</p>{{PLANS_HTML}}</div></section><section id=\"clients\" class=\"mod\"><div class=\"wrap\"><h2>客户端下载</h2><p>365VPN 通过订阅链接配合通用客户端工作。请在下方选择系统，安装后导入你自己的订阅。若安装包来源与本页不一致，请停止安装。</p>{{CLIENTS_HTML}}</div></section><section id=\"faq\" class=\"faq-band\"><div class=\"wrap\"><h2>常见问题</h2><p>问答是本页的重点。每条都可以点开，答案写操作层面的判断，而不是空话。若套餐规则与下文概括冲突，以你购买时看到的方案为准。</p><details><summary>365VPN 是什么类型的服务？</summary><p>365VPN 是以机场订阅为核心的网络加速服务：你购买的是可计费的流量与设备额度，再通过客户端拉取节点来连接。它不是需要你自行寻找服务器地址的手工代理，也不是把所有能力锁死在单一 App 里的传统 VPN 包装。理解这一点，后面的导入、换设备和续费才会顺。</p></details><details><summary>机场订阅和普通 VPN 软件有何区别？</summary><p>普通 VPN 往往登录厂商账号即可，节点和软件绑定。机场则把配置写成订阅链接，同一条链接可在多款兼容客户端中使用，换软件不必换账号。代价是你要自己完成「复制链接—导入—更新」这三步，并保管好链接。365VPN 采用后一种方式，因此本页同时提供套餐入口和客户端入口。</p></details><details><summary>如何安全保存订阅链接？</summary><p>不要发到公开群、论坛或截图分享。谁持有完整链接，谁就可以更新节点并消耗你的流量。建议只保存在密码管理器或本机笔记中；如果怀疑泄露，应立即在账户里重置订阅，再在所有设备上重新导入新链接。</p></details><details><summary>连接成功但部分网站仍打不开，怎么排查？</summary><p>先确认订阅未过期、本地网络本身可用。然后在客户端更换节点，并检查代理模式：仅系统代理时，部分独立软件不会走加速；需要全局时再开启 TUN 或等效模式。浏览器插件与系统代理叠在一起也容易冲突，建议先关掉多余插件再试。若仍失败，记录系统、客户端名称与版本，通过账户内工单说明，便于对照日志。</p></details><details><summary>可以同时在多少台设备上使用？</summary><p>同时在线数量以你所选套餐标明的限额为准，本页正文不另行填写数字，以免和方案模块冲突。超过限额时，通常会挤掉旧连接或无法登录新设备。家庭共用请先数清手机、电脑和平板，再决定方案；不要把同一条订阅分给不相关的人。</p></details><details><summary>流量用完或订阅到期后会发生什么？</summary><p>额度用尽后，新连接会失败或只能访问账户页，具体表现因客户端而异。到期后节点列表可能仍缓存在本地，但无法稳定使用。处理方式是在账户中续费、升级，或等待套餐规则中的重置周期。不要通过修改客户端配置来「续上」，那不会增加额度。</p></details><details><summary>导入订阅失败或列表是空的，怎么办？</summary><p>检查是否完整复制了链接、客户端是否选择了「订阅」类型、是否点击了更新。极个别客户端需要先允许联网权限。若反复失败，可更换另一款本页提供的客户端做对照，以判断是链接问题还是软件问题。不要从不明网站下载「修复版」。</p></details><details><summary>使用 365VPN 需要注意哪些合规事项？</summary><p>服务用于合法范围内的跨境访问、办公、学习与内容浏览。请遵守所在地法律、单位网络规定以及目标网站的使用条款。不要用于未授权扫描、攻击、盗版分发或其他违法活动。本说明页不提供此类帮助，发现明显违规需求时会直接拒绝。</p></details></div></section></main><footer><div class=\"wrap\"><p>365VPN 说明页 · 机场订阅、梯子网络加速与客户端下载指引</p><p><a href=\"#about\">返回简介</a> · <a href=\"#faq\">前往问答</a></p></div></footer>",
+          "hash": "bd762c13393326f11a12cc9557f7dd16f0f5876bf2084d0335709185ffb755ef",
+          "seo": {
+            "title": "365VPN 官网：机场订阅、梯子网络加速与客户端下载",
+            "keywords": "365VPN,365VPN官网,365VPN下载,365VPN客户端,机场订阅,VPN加速器,梯子,网络加速,官方下载",
+            "description": "365VPN 提供机场订阅与网络加速说明，覆盖使用场景、操作步骤、套餐与客户端入口，并集中解答导入、设备和合规等常见问题。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bvkifru.cn",
+    "host": "c.bvkifru.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "bvkifru.cn",
+      "url": "https://bvkifru.cn/",
+      "label": "HorizonBirth",
+      "apex": "bvkifru.cn",
+      "kind": null,
+      "identity": "ju79qjwha/page-546dac532a12fc8a6f860fe2"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7bb903eaa01a9cada3b257831c88ebbdb4874b5804f008c7ee812206f21ad089",
+    "sitemap.xml": "584aaffa30a196a76eaeea4948bdb138b722378d637b7ec5b29eda66456544c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b908353e6efc7d88b9912312d4d72bbe622edf29adcabb12185ef0bc2d56b504",
+    "robots.txt": "437b3118dbed40ef17731586e5a916609e8e74590ee4d32a62e2c8e245954a9c",
+    "5eaf484f1ff38634671587a4f7f5f36b.txt": "9872513d11ad18d70ae6fa9fa6d094d0b5cf12a81bab556cb7b9dbbc26b449e9"
+  },
+  "revision": "e8ce7eff2442f1600cf949675410fc058e888a3961bfbed483a57599b435e7ee"
+}
